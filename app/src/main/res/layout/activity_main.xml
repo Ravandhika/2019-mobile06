@@ -8,13 +8,13 @@
 
 	<FrameLayout
 		android:id="@+id/fragment_container"
-		android:layout_width="0dp"
-		android:layout_height="0dp"
+		android:layout_width="425dp"
+		android:layout_height="736dp"
 		app:layout_constraintBottom_toBottomOf="parent"
 		app:layout_constraintEnd_toEndOf="parent"
-		app:layout_constraintStart_toStartOf="parent"
-		app:layout_constraintTop_toTopOf="parent"
-		>
+		app:layout_constraintStart_toStartOf="parent">
 
 	</FrameLayout>
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
